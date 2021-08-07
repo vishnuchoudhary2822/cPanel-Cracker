@@ -1,5 +1,5 @@
 	<?php
-//// SymlinK Config By v3n0m 
+//// SymlinK Config & Cpanel cRacker By v3n0m 
 //// Copy the text and paste it into notepad and save it as file.php
 //// To download the new tools, you can enter this site : --> https://1337w0rm.com/ 
 //// or 
